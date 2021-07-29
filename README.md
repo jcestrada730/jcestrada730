@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jcestrada730
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning all the data science tools 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jcestrada730@gmail.com
 
 <!---
